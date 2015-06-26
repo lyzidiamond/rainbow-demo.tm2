@@ -1,0 +1,25 @@
+_prefs: 
+  mapid: lyzidiamond.157615fa
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -117.0703
+  - 43.5167
+  - 5
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 5
+minzoom: 0
+name: ''
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+template: ''
