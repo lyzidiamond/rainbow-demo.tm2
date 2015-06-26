@@ -1,3 +1,3 @@
-mapbox-studio-default-style
-===========================
-Default style used by new style projects in Mapbox Studio.
+# rainbow-demo.tm2
+
+Beautiful rainbow border style created with Mapbox Studio.
